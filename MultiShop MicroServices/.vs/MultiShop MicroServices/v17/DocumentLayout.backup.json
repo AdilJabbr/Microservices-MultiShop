@@ -3,108 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\updateaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\presentation\\multishop.order.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\removeaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\removeaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\presentation\\multishop.order.webapi\\multishop.order.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\multishop.order.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getalladdressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getalladdressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\services\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\services\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\createaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\createaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\presentation\\multishop.order.webapi\\controllers\\orderingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\controllers\\orderingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\addresshandlers\\getaddressbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\presentation\\multishop.order.webapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\getallorderingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\getallorderingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\results\\orderingresults\\getorderingbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\results\\orderingresults\\getorderingbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\getorderingbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\getorderingbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\queries\\orderingqueries\\getorderingbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\queries\\orderingqueries\\getorderingbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\queries\\orderingqueries\\getallorderingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\queries\\orderingqueries\\getallorderingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\createorderingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\createorderingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\removeorderingcommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\removeorderingcommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\commands\\orderingcommands\\updateorderingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\commands\\orderingcommands\\updateorderingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\commands\\orderingcommands\\removeorderingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\commands\\orderingcommands\\removeorderingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\commands\\orderingcommands\\createorderingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\commands\\orderingcommands\\createorderingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\results\\orderingresults\\getallorderingqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\results\\orderingresults\\getallorderingqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\updateorderingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\mediatr\\handlers\\orderinghandlers\\updateorderingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\removeorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\removeorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB854A-148B-4FB2-9790-06E81687BEE9}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\infrastructure\\multishop.order.persistence\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB854A-148B-4FB2-9790-06E81687BEE9}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:services\\order\\infrastructure\\multishop.order.persistence\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\presentation\\multishop.order.webapi\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3684DAA1-7010-4E6B-B908-2B3E03688709}|Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj|solutionrelative:services\\order\\presentation\\multishop.order.webapi\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\updateorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\updateorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\removeorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\removeorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\queries\\orderdetailqueries\\getorderdetailbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\queries\\orderdetailqueries\\getorderdetailbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\createorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\createorderdetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\handlers\\orderdetailhandlers\\getorderdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\updateorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\updateorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\createorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\orderdetailcommands\\createorderdetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\orderdetailresults\\getorderdetailqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\orderdetailresults\\getorderdetailqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\orderdetailresults\\getorderdetailbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\orderdetailresults\\getorderdetailbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\interfaces\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\interfaces\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\queries\\addressqueries\\getaddressbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\queries\\addressqueries\\getaddressbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCCEA447-9078-4071-B55C-10FF8412D33C}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.domain\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCCEA447-9078-4071-B55C-10FF8412D33C}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\removeaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\removeaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\updateaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\commands\\addresscommands\\updateaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90250D3-B9BF-482E-9296-6C7D24E461D4}|Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj|solutionrelative:services\\order\\core\\multishop.order.application\\features\\cqrs\\results\\addressresults\\getaddressbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCCEA447-9078-4071-B55C-10FF8412D33C}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.domain\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCCEA447-9078-4071-B55C-10FF8412D33C}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCCEA447-9078-4071-B55C-10FF8412D33C}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\core\\multishop.order.domain\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCCEA447-9078-4071-B55C-10FF8412D33C}|Services\\Order\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj|solutionrelative:services\\order\\core\\multishop.order.domain\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\dtos\\updatediscountcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\dtos\\updatediscountcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\services\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\services\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\dtos\\creatediscountcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\dtos\\creatediscountcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\dtos\\resultdiscountcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\dtos\\resultdiscountcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\dtos\\getbyiddiscountcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\dtos\\getbyiddiscountcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F25779-E1AB-4C3B-A875-9A30525AF4BE}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4DB854A-148B-4FB2-9790-06E81687BEE9}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|c:\\users\\adilj\\onedrive\\desktop\\microservices practice\\multishop microservices\\services\\order\\infrastructure\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB854A-148B-4FB2-9790-06E81687BEE9}|Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj|solutionrelative:services\\order\\infrastructure\\multishop.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,329 +138,392 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateAddressCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\UpdateAddressCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Services\\ServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Services\\ServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Services\\ServiceRegistiration.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Services\\ServiceRegistiration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:50:51.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T12:00:11.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderingsController.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderingsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:47:05.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllOrderingQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\GetAllOrderingQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\GetAllOrderingQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\GetAllOrderingQueryHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\GetAllOrderingQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:55:30.505Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RemoveAddressCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\RemoveAddressCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:45:19.427Z",
-              "EditorCaption": ""
+              "Title": "MultiShop.Order.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T08:34:49.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllAddressQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAllAddressQueryHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAllAddressQueryHandler.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAllAddressQueryHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAllAddressQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:27:14.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAddressByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\GetAddressByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:14:10.133Z",
+              "WhenOpened": "2025-12-10T10:56:28.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "GetOrderingByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Results\\OrderingResults\\GetOrderingByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:57:12.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:47:47.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetOrderingByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\GetOrderingByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\GetOrderingByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\GetOrderingByIdQueryHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\GetOrderingByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:12:42.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetOrderingByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Queries\\OrderingQueries\\GetOrderingByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:56:35.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllOrderingQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Queries\\OrderingQueries\\GetAllOrderingQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Queries\\OrderingQueries\\GetAllOrderingQuery.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Queries\\OrderingQueries\\GetAllOrderingQuery.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Queries\\OrderingQueries\\GetAllOrderingQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:56:48.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateOrderingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\CreateOrderingCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\CreateOrderingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\CreateOrderingCommandHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\CreateOrderingCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:54:59.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RemoveOrderingCommandHandler .cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\RemoveOrderingCommandHandler .cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\RemoveOrderingCommandHandler .cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\RemoveOrderingCommandHandler .cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\RemoveOrderingCommandHandler .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:55:55.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateOrderingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\UpdateOrderingCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\UpdateOrderingCommand.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\UpdateOrderingCommand.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\UpdateOrderingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:54:45.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RemoveOrderingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\RemoveOrderingCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\RemoveOrderingCommand.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\RemoveOrderingCommand.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\RemoveOrderingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:54:34.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateOrderingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\CreateOrderingCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\CreateOrderingCommand.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\CreateOrderingCommand.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Commands\\OrderingCommands\\CreateOrderingCommand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:53:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllOrderingQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Results\\OrderingResults\\GetAllOrderingQueryResult.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Results\\OrderingResults\\GetAllOrderingQueryResult.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Results\\OrderingResults\\GetAllOrderingQueryResult.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Results\\OrderingResults\\GetAllOrderingQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:57:32.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateOrderingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\UpdateOrderingCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\UpdateOrderingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\UpdateOrderingCommandHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\MediatR\\Handlers\\OrderingHandlers\\UpdateOrderingCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:56:05.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetOrderDetailByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:21:28.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RemoveOrderDetailCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\RemoveOrderDetailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:08:04.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\MultiShop.Order.WebApi\\Controllers\\AddressesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwEAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:36:47.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repository\\Repository.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Repository\\Repository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T06:30:31.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateOrderDetailCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\UpdateOrderDetailCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:26:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RemoveOrderDetailCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\RemoveOrderDetailCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:24:28.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateOrderDetailCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\CreateOrderDetailCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:17:00.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetOrderDetailQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\OrderDetailHandlers\\GetOrderDetailQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:24:27.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetOrderDetailByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\OrderDetailQueries\\GetOrderDetailByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:03:38.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateOrderDetailCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\UpdateOrderDetailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:08:31.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateOrderDetailCommand.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\OrderDetailCommands\\CreateOrderDetailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:05:18.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetOrderDetailByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:02:19.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetOrderDetailQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\OrderDetailResults\\GetOrderDetailQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:00:42.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\Generic\\IRepository.cs",
               "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\Generic\\IRepository.cs",
               "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\Generic\\IRepository.cs",
               "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Interfaces\\Generic\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:32:05.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T06:43:51.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetAddressQueryResult.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressQueryResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\MultiShop.Order.Persistence\\Context\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:42:48.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateAddressCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Handlers\\AddressHandlers\\CreateAddressCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:51:43.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateAddressCommand.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:48:11.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Domain\\Address.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Address.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Domain\\Address.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:09:45.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetAddressByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Queries\\AddressQueries\\GetAddressByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:45:58.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateAddressCommand.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\UpdateAddressCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:49:23.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RemoveAddressCommand.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\RemoveAddressCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:50:14.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetAddressByIdQueryResult.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Application\\Features\\CQRS\\Results\\AddressResults\\GetAddressByIdQueryResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:44:40.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Domain\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Domain\\OrderDetail.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:09:35.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Ordering.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Domain\\Ordering.cs",
-              "RelativeDocumentMoniker": "Services\\Order\\Core\\MultiShop.Order.Domain\\Ordering.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Order\\Core\\MultiShop.Order.Domain\\Ordering.cs",
-              "RelativeToolTip": "Services\\Order\\Core\\MultiShop.Order.Domain\\Ordering.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T13:09:22.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T21:03:32.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DiscountsController.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Controllers\\DiscountsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T20:33:52.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DiscountService.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwDcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:43:43.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IDiscountService.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:43:26.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GetByIdDiscountCouponDto.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdDiscountCouponDto.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdDiscountCouponDto.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdDiscountCouponDto.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdDiscountCouponDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:41:20.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UpdateDiscountCouponDto.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateDiscountCouponDto.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateDiscountCouponDto.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateDiscountCouponDto.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateDiscountCouponDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:40:17.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ResultDiscountCouponDto.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Dtos\\ResultDiscountCouponDto.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\ResultDiscountCouponDto.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Dtos\\ResultDiscountCouponDto.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Dtos\\ResultDiscountCouponDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:41:27.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateDiscountCouponDto.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Dtos\\CreateDiscountCouponDto.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\CreateDiscountCouponDto.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Dtos\\CreateDiscountCouponDto.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Dtos\\CreateDiscountCouponDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:40:58.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Coupon.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Entities\\Coupon.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Entities\\Coupon.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Entities\\Coupon.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Entities\\Coupon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:26:13.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\appsettings.json",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\appsettings.json",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-07T23:37:02.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DapperContext.cs",
-              "DocumentMoniker": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
-              "ToolTip": "C:\\Users\\adilj\\OneDrive\\Desktop\\Microservices Practice\\MultiShop MicroServices\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:28:23.703Z"
+              "WhenOpened": "2025-12-10T06:23:20.551Z"
             }
           ]
         }
